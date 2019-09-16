@@ -8,4 +8,4 @@ The algorithm uses a face-recognition library which uses [dlib](http://dlib.net/
 
 ### GUI
 The GUI developed on Tkinter looks as follow
-[!GUI](https://imgur.com/nTh6Qiq.jpg)
+![GUI](https://imgur.com/nTh6Qiq.jpg)
